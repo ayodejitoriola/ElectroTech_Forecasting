@@ -1,1 +1,1 @@
-# ElectroTech_Forecsating
+# ElectroTech_Forecasting
